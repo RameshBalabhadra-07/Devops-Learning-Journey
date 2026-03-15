@@ -1,2 +1,10 @@
 # Devops-Learning-Journey
-My Complete Devops learning journey with hands-on projects
+
+DevOps Learning Journey
+
+Topics covered:
+- Linux
+- Git
+- Terraform
+- Docker
+- Kubernetes
